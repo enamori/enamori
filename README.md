@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- Interested in educational technology, specifically language learning technology
+- Currently on exchange at École Polytechnique Fédérale de Lausanne (EPFL), coming from UC San Diego
+- Contact: eouyang@ucsd.edu
 <!--
 **enamori/enamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
